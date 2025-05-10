@@ -65,6 +65,7 @@ const fixedCostsItems = [
 
 const variableCostsItems = [
   { id: 'transport', label: 'Transporte', icon: '🚗' },
+  { id: 'travel', label: 'Viajes', icon: '✈️' },
   { id: 'meals', label: 'Alimentación', icon: '🍱' },
   { id: 'materials', label: 'Materiales', icon: '📦' },
   { id: 'permits', label: 'Permisos', icon: '📄' },
